@@ -1,2 +1,4 @@
+flask
+pyrogram
 request 
-telebor
+telebob
